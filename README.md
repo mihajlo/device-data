@@ -1,5 +1,8 @@
 <h1>DeviceDetails PHP library for visitors devices</h1><p>With this library, you can very easily detect device details. Especially for mobile and tablet.</p><hr><h3>Configuration:</h3><h4>./config/config-sample.php</h4><pre>&lt;?php
     
+####Composer installation
+    composer require phpmk/devicedata:v1
+
     //rename file to config.php
     $config['token'] = '[your PHP.mk token]'; //You can get free token on https://php.mk/services/device
 
