@@ -7,7 +7,7 @@
     "detection"
   ],
   "homepage": "https://php.mk/",
-  "license": "GNU",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Mihajlo Siljanoski",
