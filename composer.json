@@ -1,0 +1,23 @@
+{
+  "name": "Device data by PHP.mk",
+  "description": "PHP.mk PHP Library for using Device API service",
+  "keywords": [
+    "php.mk",
+    "device",
+    "detection"
+  ],
+  "homepage": "https://php.mk/",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Mihajlo Siljanoski",
+      "homepage": "https://www.linkedin.com/in/msiljanoski"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  }
+}
