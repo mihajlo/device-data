@@ -1,5 +1,5 @@
 {
-  "name": "Device data by PHP.mk",
+  "name": "phpmk/devicedata",
   "description": "PHP.mk PHP Library for using Device API service",
   "keywords": [
     "php.mk",
