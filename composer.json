@@ -21,6 +21,6 @@
     "ext-mbstring": "*"
   },
   "autoload": {
-        "files": ["vendor/phpmk/devicedata/src/DeviceDetails.php"]
+        "files": ["src/DeviceDetails.php"]
   }
 }
